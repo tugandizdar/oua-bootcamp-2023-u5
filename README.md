@@ -34,6 +34,7 @@ Bazen düştüğümüz çukurdan kurtulmak için bir başkasının yardımına i
 * Rassal mekan ve harita oluşturma.
 * İzometrik kamera kullanımı.
 * Üçüncü şahıs kamera kullanımı.
+* Zombi tarzı düşmanlarla silahlı savaş mekaniği.
 * Tekrarlanabilir bulmacalar.
 * Çok oyunculu oyun modu.
 * 
@@ -43,6 +44,7 @@ Bazen düştüğümüz çukurdan kurtulmak için bir başkasının yardımına i
 * Bulmaca mekaniği seven oyuncular.
 * Değişken oyun mekaniği ve kamera açısı deneyimi yaşamak isteyen oyuncular.
 * Her oynayışta yeni oyun deneyimi yaşamak isteyen oyuncular.
+* Sonsuz oyun modu seven oyuncular.
 * 
 
 # Product Backlog
@@ -50,4 +52,5 @@ Backlog takibi trello üzerinden yapılacaktır:
 https://trello.com/b/lj6mkGIT/bootcamp-2023-u5
 * Örnek bir ekran altısı:
 ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/13a3e696-2a2b-47d7-8192-bb8524a67d70)
+![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/be27cde8-6977-4b0a-b6d5-f2b2e33a17b9)
 
