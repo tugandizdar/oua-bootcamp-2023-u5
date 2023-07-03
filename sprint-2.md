@@ -23,7 +23,8 @@
   * Daily Scrum toplantıları ilgili klasör altında paylaşılmaktadır.
     * Örnek bir ekran altısı:
       ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/0fbbb1dc-c6f1-4eb1-b932-c981dcf6c6af)
-      ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/3b999a6e-d565-4308-b074-e5ce16bd9d65)
+      ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/94102066-0de5-49cd-8d21-85ad0b21cf44)
+
 
 
 * **Sprint Board Updates:**
@@ -43,6 +44,16 @@
   * Örnek zemin tasarımları:
   ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/0c0145cc-7b18-464e-846e-a45d4588b6bf)
   ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/5cdae0bf-dffa-43d1-bab5-417cffb1d9cd)
+  ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/355c0cd4-2c38-44eb-8a7a-ea156c32cd6a)
+  ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/19f4d881-4b14-433d-842f-289c6d43ddc7)
+  ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/548928f7-9be5-43a7-93b1-1cb81d1bd739)
+
+  * örnek düşman tasarımları:
+  ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/eb07d385-e058-434b-a794-939cc4e6b925)
+  ![image](https://github.com/tugandizdar/oua-bootcamp-2023-u5/assets/94108368/715c2bd1-b4e7-45e8-89d8-1bbe0e707eb7)
+
+
+
 
 
 
