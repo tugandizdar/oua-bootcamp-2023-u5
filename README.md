@@ -5,7 +5,7 @@
 # Takım
 
 ### Takım İsmi
----TAKIM-ADIMIZ---
+Revival Game Studios
 
 ### Takım Üyeleri ve Roller
 * Galip Tuğan Dizdar: Product Owner
@@ -18,7 +18,7 @@
 # Ürün
 
 ### Ürün İsmi
----URUN-ADIMIZ---
+Revival
 
 ### Ürün Açıklaması
 Issız ve korkutucu bir adada uyanan ve kendini neden burada bulduğunu hatırlamayan birinin; hayatta kalması, 
